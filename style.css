@@ -128,6 +128,7 @@ navbar {
     flex-wrap: wrap;   
     justify-content: center;
     align-content:space-between;
+    gap: 10px;
  }
 .img-5 {
     display:none;
