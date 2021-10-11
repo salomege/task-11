@@ -102,6 +102,10 @@ navbar{
     display:none;
 }
 
+header{
+    max-height: 185px;
+}
+
 .logo {
     max-width:97px;
 }
