@@ -90,3 +90,46 @@ margin: 60px 0;
     border-radius: 20px;
 }
 
+@media (max-width: 1024px) {
+.conteiner{
+    max-width:1024px;
+    width:100%;
+    margin:0 auto;
+    background-color: blue;
+}
+
+navbar{
+    display:none;
+}
+
+.logo {
+    max-width:97px;
+}
+
+navbar {
+    display: none;
+}
+.flex {
+    justify-content: center;
+}
+.img-section {
+    max-width: 900px;
+    margine:0 auto;
+}
+
+.main.image{
+    width:100%;
+
+}
+ .absolute{
+     top:-50px;
+ }
+ .small-images {
+    flex-wrap: wrap;   
+    justify-content: flex-start;
+ }
+.img-5 {
+    display:none;
+}
+
+    }
