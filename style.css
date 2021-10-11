@@ -126,7 +126,8 @@ navbar {
  }
  .small-images {
     flex-wrap: wrap;   
-    justify-content: flex-start;
+    justify-content: center;
+    align-content:space-between;
  }
 .img-5 {
     display:none;
